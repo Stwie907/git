@@ -1,0 +1,12 @@
+{
+  "name": "barista-website",
+  "version": "1.0.0",
+  "description": "A barista brand website with contact form",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.22.2"
+  }
+}
