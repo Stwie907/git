@@ -1,0 +1,16 @@
+{
+  "name": "git",
+  "version": "1.0.0",
+  "description": "Git 练习仓库",
+  "main": "index.js",
+  "scripts": {
+    "help": "echo 'Available commands: npm run dev, npm run build, npm run test, npm run clean'",
+    "dev": "echo 'Starting dev server...'",
+    "build": "echo 'Building project...'",
+    "test": "echo 'No tests configured yet'",
+    "clean": "rm -rf dist/ node_modules/.cache"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
